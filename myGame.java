@@ -81,7 +81,7 @@ public class myGame extends Game
     
     public Knoten getWurzel() {return wurzel;}
     
-    
+    //Max IQ = Age
     
     }      
 
